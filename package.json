@@ -1,0 +1,8 @@
+{
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bybit-api": "^3.10.10",
+    "telegraf": "^4.16.3"
+  }
+}
